@@ -13,8 +13,8 @@
 [![Redux Badge](http://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&link=https://ko.redux.js.org/introduction/getting-started/)](https://ko.redux.js.org/introduction/getting-started/)  
 
 ### 📝Project
-- Provides festival information services. [![Github Badge](http://img.shields.io/badge/-Github-black??style=flat&logo=github&link=https://github.com/0hoon9/local-festival-web-page)](https://github.com/0hoon9/local-festival-web-page)
-- E-Commerce Shopping Mall. [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/0hoon9/MERN-shop)](https://github.com/0hoon9/MERN-shop)
+- Java&Spring framework | Provides festival information services. [![Github Badge](http://img.shields.io/badge/-Github-black??style=flat&logo=github&link=https://github.com/0hoon9/local-festival-web-page)](https://github.com/0hoon9/local-festival-web-page)
+- MERN Stack | E-Commerce Shopping Mall. [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/0hoon9/MERN-shop)](https://github.com/0hoon9/MERN-shop)
 
 ### 📞Connect
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeonghoon-koo-111b6220a/)](https://www.linkedin.com/in/yeonghoon-koo-111b6220a/) 
