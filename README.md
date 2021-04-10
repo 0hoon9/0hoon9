@@ -17,9 +17,9 @@ Study and develop for better products
 [![Redux Badge](http://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&link=https://ko.redux.js.org/introduction/getting-started/)](https://ko.redux.js.org/introduction/getting-started/)
 [![Express Badge](http://img.shields.io/badge/Express-black?style=flat-square&logo=express&link=https://expressjs.com/ko/)](https://expressjs.com/ko/)  
   
-- **Publish:** [![HTML5 Badge](http://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html&link="")]()
-[![CSS3 Badge](http://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css&link=""]()
-[![BootStrap Badge](http://img.shields.io/badge/BootStrap-7952b3?style=flat-square&logo=bootstrap&link=""]()
+- **Publish:** [![HTML5 Badge](http://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5)]
+[![CSS3 Badge](http://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3]
+[![BootStrap Badge](http://img.shields.io/badge/BootStrap-7952b3?style=flat-square&logo=bootstrap]
   
 <hr/>
 
