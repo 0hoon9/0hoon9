@@ -11,7 +11,7 @@
   
 - Database: [![MySQL Badge](http://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&link=https://www.mysql.com/)](https://www.mysql.com/)
 [![OracleDB Badge](http://img.shields.io/badge/-OracleDB-f80000?style=flat-square&logo=oracle&link=https://www.oracle.com/index.html)](https://www.oracle.com/index.html)
-[![MongoDB Badge](http://img.shields.io/badge/mongoDB-47a248?style=flat-square&logo=mongodb&link=https://www.mongodb.com/)](https://www.mongodb.com/)
+[![MongoDB-db](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logomongodb)](https://www.mongodb.com/)
   
 - Library&Framework: [![Spring Badge](http://img.shields.io/badge/-OracleDB-cef279?style=flat-square&logo=spring&link=https://spring.io/)](https://spring.io/)
 [![React Badge](http://img.shields.io/badge/-React-c4fdff?style=flat-square&logo=react&link=https://ko.reactjs.org/)](https://ko.reactjs.org/)
