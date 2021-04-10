@@ -12,7 +12,7 @@ Study and develop for better products
 [![OracleDB Badge](http://img.shields.io/badge/OracleDB-f80000?logo=oracle&logoColor=white&style=flat)](https://www.oracle.com/index.html)
 [![MongoDB-db](https://img.shields.io/badge/MongoDB-47a248?&logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/)
   
-- **Library&Framework:** ![jQuery](https://img.shields.io/badge/jQuery-0769ad?logo=jQuery&logoColor=white&style=flat)(https://jquery.com/)
+- **Library&Framework:** ![jQuery](https://img.shields.io/badge/jQuery-0769ad?logo=jQuery&logoColor=white&style=flat)](https://jquery.com/)
 [![Spring Badge](http://img.shields.io/badge/-Spring-6db33f?logo=spring&logoColor=white&style=flat)](https://spring.io/)
 [![React Badge](http://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white&style=flat)](https://ko.reactjs.org/)
 [![Redux Badge](http://img.shields.io/badge/-Redux-764abc?logo=redux&logoColor=white&style=flat)](https://ko.redux.js.org/introduction/getting-started/)
