@@ -5,17 +5,17 @@ Study and develop for better products
 
 ### ⌨️Skills
 
-- **Language:** [![Java Badge](http://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)](https://www.java.com/ko/)
-[![JavaScript Badge](http://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+- **Language:** [![Java Badge](http://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)](https://www.java.com/ko/)
+[![JavaScript Badge](http://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
   
 - **Database:** [![MySQL Badge](http://img.shields.io/badge/MySQL-4479a1?logo=MySQL&logoColor=white&style=flat)](https://www.mysql.com/)
 [![OracleDB Badge](http://img.shields.io/badge/OracleDB-f80000?logo=oracle&logoColor=white&style=flat)](https://www.oracle.com/index.html)
 [![MongoDB-db](https://img.shields.io/badge/MongoDB-47a248?&logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com/)
   
-- **Library&Framework:** ![jQuery](https://img.shields.io/badge/jQuery-0769ad?logo=jQuery&logoColor=white&style=flat)](https://jquery.com/)
-[![Spring Badge](http://img.shields.io/badge/-Spring-6db33f?logo=spring&logoColor=white&style=flat)](https://spring.io/)
-[![React Badge](http://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white&style=flat)](https://ko.reactjs.org/)
-[![Redux Badge](http://img.shields.io/badge/-Redux-764abc?logo=redux&logoColor=white&style=flat)](https://ko.redux.js.org/introduction/getting-started/)
+- **Library&Framework:** [![jQuery Badge](https://img.shields.io/badge/jQuery-0769ad?logo=jQuery&logoColor=white&style=flat)](https://jquery.com/)
+[![Spring Badge](http://img.shields.io/badge/Spring-6db33f?logo=spring&logoColor=white&style=flat)](https://spring.io/)
+[![React Badge](http://img.shields.io/badge/React-61dafb?logo=react&logoColor=white&style=flat)](https://ko.reactjs.org/)
+[![Redux Badge](http://img.shields.io/badge/Redux-764abc?logo=redux&logoColor=white&style=flat)](https://ko.redux.js.org/introduction/getting-started/)
 [![Express Badge](http://img.shields.io/badge/Express-black?logo=express&logoColor=white&style=flat)](https://expressjs.com/ko/)  
   
 - **Publish:** ![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&logoColor=white&style=flat)
