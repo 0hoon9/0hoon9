@@ -1,8 +1,6 @@
-### 😊Hi, I'm Front-end Developer
-
-안녕하세요, 프론트엔드 개발자 구영훈입니다.  
-저는 세상과 사람들이 필요로하는 제품을 제공하기 위해 개발을 합니다.  
-단 한명에게라도 도움이 된다면 그것만으로도 큰 즐거움일 것입니다.  
+### 😊Hi there!
+I'm Front-end Developer
+Study and develop for better products
 <hr/>
 
 ### ⌨️Skills
