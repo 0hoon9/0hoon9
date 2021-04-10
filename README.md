@@ -9,9 +9,9 @@
 - Language: [![Java Badge](http://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&link=https://www.java.com/ko/)](https://www.java.com/ko/)
 [![JavaScript Badge](http://img.shields.io/badge/-JavaScript-faf4c0?style=flat-square&logo=javascript&link=https://developer.mozilla.org/ko/docs/Web/JavaScript)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
   
-- Database: [![MySQL Badge](http://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&link=https://www.mysql.com/)](https://www.mysql.com/)
+- Database: [![MySQL Badge](http://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql&link=https://www.mysql.com/)](https://www.mysql.com/)
 [![OracleDB Badge](http://img.shields.io/badge/-OracleDB-f80000?style=flat-square&logo=oracle&link=https://www.oracle.com/index.html)](https://www.oracle.com/index.html)
-[![MongoDB-db](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logomongodb)](https://www.mongodb.com/)
+[![MongoDB-db](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
   
 - Library&Framework: [![Spring Badge](http://img.shields.io/badge/-OracleDB-cef279?style=flat-square&logo=spring&link=https://spring.io/)](https://spring.io/)
 [![React Badge](http://img.shields.io/badge/-React-c4fdff?style=flat-square&logo=react&link=https://ko.reactjs.org/)](https://ko.reactjs.org/)
