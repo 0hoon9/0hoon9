@@ -22,7 +22,7 @@ Study and develop for better products
 - **Publish:** ![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&logoColor=white&style=flat)
   ![CSS3](https://img.shields.io/badge/CSS3-1572b6?logo=CSS3&logoColor=white&style=flat)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?logo=Bootstrap&logoColor=white&style=flat)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind CSS-38b2ac?logo=Tailwind CSS&logoColor=white&style=flat) 
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38b2ac?logo=TailwindCSS&logoColor=white&style=flat) 
   
 <hr/>
 
