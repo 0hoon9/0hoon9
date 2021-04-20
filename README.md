@@ -7,6 +7,7 @@ Study and develop for better products
 
 - **Language:** [![Java Badge](http://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)](https://www.java.com/ko/)
 [![JavaScript Badge](http://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+[![TypeScript Badge](http://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat)](https://www.typescriptlang.org/)
   
 - **Database:** [![MySQL Badge](http://img.shields.io/badge/MySQL-4479a1?logo=MySQL&logoColor=white&style=flat)](https://www.mysql.com/)
 [![OracleDB Badge](http://img.shields.io/badge/OracleDB-f80000?logo=oracle&logoColor=white&style=flat)](https://www.oracle.com/index.html)
@@ -21,6 +22,7 @@ Study and develop for better products
 - **Publish:** ![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&logoColor=white&style=flat)
   ![CSS3](https://img.shields.io/badge/CSS3-1572b6?logo=CSS3&logoColor=white&style=flat)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?logo=Bootstrap&logoColor=white&style=flat)
+  ![tailwindcss](https://img.shields.io/badge/Bootstrap-38b2ac?logo=tailwindcss&logoColor=white&style=flat)
   
 <hr/>
 
