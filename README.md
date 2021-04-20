@@ -26,7 +26,8 @@ Study and develop for better products
 
 ### 📝Project
 - Provides festival information services | Java&Spring framework [![Github Badge](http://img.shields.io/badge/-Github-black??style=flat&logo=github&link=https://github.com/0hoon9/local-festival-web-page)](https://github.com/0hoon9/local-festival-web-page)
-- E-Commerce Shopping Mall | MERN Stack [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/0hoon9/MERN-shop)](https://github.com/0hoon9/MERN-shop)  
+- E-Commerce Shopping Mall | MERN Stack [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/0hoon9/MERN-shop)](https://github.com/0hoon9/MERN-shop)
+- Socket.io Chat app | TypeScript&React [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/0hoon9/chat-site)](https://github.com/0hoon9/chat-site)  
 <hr/>
 
 ### 📞Connect
